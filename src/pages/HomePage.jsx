@@ -12,7 +12,7 @@ const HomePage = () => {
   const { entries } = useTimeline();
 
   useEffect(() => {
-    // Simulate data fetch with loading state
+   
     const timer = setTimeout(() => {
       setFriends(friendsData);
       setLoading(false);
@@ -30,7 +30,7 @@ const HomePage = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-        {/* Banner */}
+       
         <div className="text-center mb-8">
           <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-2">
             Friends to keep close in your life
@@ -43,11 +43,11 @@ const HomePage = () => {
             Add a Friend
           </button>
 
-          {/* Summary Cards */}
+        
           <SummaryCards interactionCount={interactionsThisMonth} />
         </div>
 
-        {/* Friends Section */}
+       
         <div>
           <h2 className="text-base font-semibold text-gray-900 mb-4">Your Friends</h2>
 
