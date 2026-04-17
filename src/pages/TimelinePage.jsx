@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ChevronDown } from "lucide-react";
-import TimelineEntry from "../components/TimelineEntry";
+import TimelineEntry from "../context/TimelineEntry";
 import { useTimeline } from "../context/TimelineContext";
 
 const FILTER_OPTIONS = ["All", "Call", "Text", "Video"];

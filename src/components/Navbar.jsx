@@ -15,11 +15,11 @@ const Navbar = () => {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-14">
          
-          <NavLink to="/" className="font-bold text-gray-900 text-lg tracking-tight">
-            KeenKeeper
+          <NavLink to="/" className="font-bold text-green-800 text-xl ">
+            <span className="text-black">Keen</span>Keeper
           </NavLink>
 
-          {/* Nav Links */}
+         
           <div className="flex items-center gap-1">
             {navLinks.map(({ to, label, icon: Icon }) => (
               <NavLink
@@ -29,7 +29,7 @@ const Navbar = () => {
                 className={({ isActive }) =>
                   `flex items-center gap-1.5 px-3 py-1.5 rounded-md text-sm font-medium transition-all ${
                     isActive
-                      ? "bg-primary text-white"
+                      ? "bg-green-700 text-white"
                       : "text-gray-600 hover:text-gray-900 hover:bg-gray-100"
                   }`
                 }
