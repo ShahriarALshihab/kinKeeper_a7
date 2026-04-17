@@ -47,7 +47,7 @@ const TimelinePage = () => {
                     }}
                     className={`w-full text-left px-4 py-2 text-sm transition-colors first:rounded-t-lg last:rounded-b-lg ${
                       filter === opt
-                        ? "bg-primary text-white"
+                        ? "bg-white text-black"
                         : "text-gray-700 hover:bg-gray-50"
                     }`}
                   >
@@ -62,7 +62,7 @@ const TimelinePage = () => {
             onClick={() =>
               setSortOrder((p) => (p === "newest" ? "oldest" : "newest"))
             }
-            className="border border-gray-200 bg-white rounded-lg px-4 py-2 text-sm text-gray-600 hover:border-gray-300 transition-colors"
+            className=" border-white bg-white rounded-lg px-4 py-2 text-sm text-white hover:border-white transition-colors"
           >
             {sortOrder === "newest" ? "↓ Newest" : "↑ Oldest"}
           </button>

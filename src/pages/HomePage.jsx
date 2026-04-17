@@ -38,7 +38,7 @@ const HomePage = () => {
           <p className="text-gray-500 text-sm max-w-md mx-auto mb-6">
             Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
           </p>
-          <button className="inline-flex items-center gap-2 bg-primary hover:bg-primary-dark text-white text-sm font-medium px-5 py-2.5 rounded-lg transition-colors">
+          <button className="inline-flex items-center gap-2 bg-green-900 hover:bg-primary-dark text-white text-sm font-medium px-5 py-2.5 rounded-lg transition-colors">
             <Plus size={16} />
             Add a Friend
           </button>
