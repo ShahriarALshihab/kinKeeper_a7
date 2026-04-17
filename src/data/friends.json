@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Nusrat Jahan",
+    "picture": "https://i.pravatar.cc/150?img=47",
+    "email": "nusrat.jahan@gmail.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["university", "close friend"],
+    "bio": "Met at university during our CSE first year in Dhaka. We've been inseparable since then. She now works as a UX designer at a local tech company and inspires me daily.",
+    "goal": 7,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 2,
+    "name": "Mahmudul Hasan",
+    "picture": "https://i.pravatar.cc/150?img=12",
+    "email": "mahmudul.hasan@corporate.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["work", "mentor"],
+    "bio": "My first team lead in a Dhaka-based software company. He believed in me before I believed in myself. Now he's a senior engineering manager. We try to meet for tea every couple of weeks.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 3,
+    "name": "Aisha Rahman",
+    "picture": "https://i.pravatar.cc/150?img=44",
+    "email": "aisha.rahman@studio.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["hobby", "travel"],
+    "bio": "Travel buddy and photography enthusiast. We met during a trip to Cox's Bazar and have been planning trips to Sylhet and Bandarban ever since.",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 4,
+    "name": "Tanvir Ahmed",
+    "picture": "https://i.pravatar.cc/150?img=68",
+    "email": "tanvir.ahmed@creative.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["university", "work"],
+    "bio": "University roommate turned business partner. We started a small freelance design agency in Dhaka. Now he runs his own studio and we exchange ideas regularly.",
+    "goal": 7,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 5,
+    "name": "Farhana Akter",
+    "picture": "https://i.pravatar.cc/150?img=45",
+    "email": "farhana.akter@health.org",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["family", "close friend"],
+    "bio": "Former colleague and mentor from an NGO in Bangladesh. We worked together for years on community health projects. She now leads public health initiatives across different districts.",
+    "goal": 30,
+    "next_due_date": "2026-02-27"
+  },
+  {
+    "id": 6,
+    "name": "Rafiul Karim",
+    "picture": "https://i.pravatar.cc/150?img=48",
+    "email": "rafiul.karim@design.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["work", "hobby"],
+    "bio": "Met at a tech and design meetup in Dhaka. He introduced me to minimal design concepts that completely changed my perspective on UI/UX.",
+    "goal": 14,
+    "next_due_date": "2026-04-25"
+  },
+  {
+    "id": 7,
+    "name": "Shakib Hossain",
+    "picture": "https://i.pravatar.cc/150?img=15",
+    "email": "shakib.hossain@travel.com",
+    "days_since_contact": 21,
+    "status": "overdue",
+    "tags": ["hobby", "travel"],
+    "bio": "Adventure partner from a long bike trip across different districts of Bangladesh. We bonded over roadside tea stalls and scenic village roads.",
+    "goal": 14,
+    "next_due_date": "2026-04-08"
+  },
+  {
+    "id": 8,
+    "name": "Sabina Yasmin",
+    "picture": "https://i.pravatar.cc/150?img=49",
+    "email": "sabina.yasmin@media.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["work", "university"],
+    "bio": "Journalism department friend who is now working in media. She creates impactful documentaries on climate change and social issues in Bangladesh.",
+    "goal": 10,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 9,
+    "name": "Rakib Chowdhury",
+    "picture": "https://i.pravatar.cc/150?img=60",
+    "email": "rakib.chowdhury@startup.com",
+    "days_since_contact": 15,
+    "status": "almost due",
+    "tags": ["work", "mentor"],
+    "bio": "Startup mentor I met at a Dhaka incubator program. He guided me through my first business idea and helped me understand the local startup ecosystem.",
+    "goal": 14,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 10,
+    "name": "Mim Akter",
+    "picture": "https://i.pravatar.cc/150?img=46",
+    "email": "mim.akter@art.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["hobby", "close friend"],
+    "bio": "Creative friend I met at a local cultural event. She loves art, poetry, and deep conversations. Our weekly chats are always meaningful and refreshing.",
+    "goal": 7,
+    "next_due_date": "2026-04-21"
+  }
+]
